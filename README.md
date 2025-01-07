@@ -2,6 +2,22 @@
 ![1-2](https://github.com/user-attachments/assets/c169fd88-572d-4a55-bc57-d24be8810179)
 # Hello there! 👀 
 
+```javascript
+function getWelcomeMessage(name) {
+    return `
+        Hello, ${name}! 👋
+        
+        I did this function because I thought it was fun and creative XD
+        
+        Let me show you my skills and my knowledge ;D
+    `;
+}
+
+// Call the function and log the message
+console.log(getWelcomeMessage("Visitor"));
+
+````
+
 My journey is anything but ordinary, and I use my diverse experiences to excel professionally—ideally in the gaming industry 🎮🕹, though I’m open to exploring other opportunities. You never know what might spark a new passion.
 
 I didn’t always see myself as a programmer. At first, I was hesitant, thinking it wasn’t for me. But as I dove in, I discovered I was quite good at it! My GitHub shows the progress I’ve made. 😉 While I’m relatively new to this field, I’ve embraced it fully, combining my technical skills with my creative background in UI/UX design 🎨.
@@ -36,6 +52,7 @@ Starting over has never been a setback for me—it’s an opportunity. No matter
 
 ![Jest](https://img.shields.io/badge/Jest-blue?style=for-the-badge&logo=jest&logoColor=white) ![Supertst](https://img.shields.io/badge/Supertst-blue?style=for-the-badge&logo=supertest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=purple) ![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira&logoColor=blue)
 
+![porjects](https://github.com/user-attachments/assets/9acbd61c-37d1-4f1d-9bda-ef4b339accd8)
 
 <!---
 DarthVada36/DarthVada36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
