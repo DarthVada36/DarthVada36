@@ -1,5 +1,6 @@
 
-![1-2](https://github.com/user-attachments/assets/c169fd88-572d-4a55-bc57-d24be8810179)
+![darht](https://github.com/user-attachments/assets/e34ea6a4-0b5e-41b0-ac97-e341261070aa)
+
 # Hello there! 👀 
 
 ```javascript
