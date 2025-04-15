@@ -1,61 +1,129 @@
 
-![darht](https://github.com/user-attachments/assets/e34ea6a4-0b5e-41b0-ac97-e341261070aa)
+![darthvada](https://github.com/user-attachments/assets/0b2014bc-f077-4462-a24b-1f6afe3ab3c4)
 
-# Hello there! 👀 
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE3M2twbjh2bmsyNmk2dm04NnRpOXd4MGllZmFmeGk3a3R1azd4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jVAt83ieT49H6ja5Ty/giphy.gif" width="500"/>
+</div>
 
-```javascript
-function getWelcomeMessage(name) {
-    return `
-        Hello, ${name}! 👋
-        
-        I did this function because I thought it was fun and creative XD
-        
-        Let me show you my skills and my knowledge ;D
-    `;
-}
 
-// Call the function and log the message
-console.log(getWelcomeMessage("Visitor"));
+<h1 align="center"> Hello there!! 🤙🔥 </h1> 
 
-````
 
-My journey is anything but ordinary, and I use my diverse experiences to excel professionally—ideally in the gaming industry 🎮🕹, though I’m open to exploring other opportunities. You never know what might spark a new passion.
+I'm a web developer with a strong commitment to writing clean, optimized, and scalable code. I blend creativity and logic, allowing me to move confidently across both frontend and backend. My approach to development is deeply rooted in best practices, maintainability, and a passion for crafting high-quality solutions that truly rock.
 
-I didn’t always see myself as a programmer. At first, I was hesitant, thinking it wasn’t for me. But as I dove in, I discovered I was quite good at it! My GitHub shows the progress I’ve made. 😉 While I’m relatively new to this field, I’ve embraced it fully, combining my technical skills with my creative background in UI/UX design 🎨.
+Currently, I'm expanding my skills into the world of AI development and data science, combining my technical foundation with a deep curiosity for data-driven problem solving and intelligent systems. I'm on a mission to build smart solutions that not only work—but think.
 
-Before this, my career centered around customer service and solving complex challenges efficiently. As part of Player Support, I tackled difficult situations, managed the Player Behavior Area, and gained expertise in ITIL and IT services.
+<h1 align="center"> This is what I rock 🎸 </h1> 
 
-In my role as a Senior Specialized Agent, I went further—streamlining processes, mentoring teams, and consistently exceeding KPI goals. Collaborating with regional and global teams taught me the value of effective communication and adaptability.
+- **Self-taught and unstoppable:** I’m constantly learning, evolving, and leveling up with every project I take on.
 
-My experience in gaming extends beyond support roles. I’ve created workshops and mentoring materials for professional players, as well as social media content for a semi-professional Esports team. These projects let me merge my gaming knowledge with my skills in design and storytelling.
+- **Detail-driven with a long-term mindset:** I don’t just build things that work—I build things that last.
 
-Now, as a Full-Stack Developer, I’ve added React, Node.js, TypeScript, and SQL to my toolkit, bringing problem-solving expertise and creative thinking to technical challenges. Whether it’s designing intuitive interfaces or optimizing backend systems, I strive to deliver impactful solutions.
+- **Code with purpose:** I apply principles like SOLID to ensure my work is clean, modular, and easy to maintain.
 
-Starting over has never been a setback for me—it’s an opportunity. No matter how challenging or unfamiliar the road, I’m proof that persistence and passion lead to success. 🚀
+- **Creative and technical fusion:** My background in design gives me a unique perspective, allowing me to deliver both beautiful interfaces and solid architecture.
+
+- **Resilient by nature:** Every challenge is an opportunity, and I face them head-on—with persistence, patience, and precision.
+
+- **Team player with a voice:** I thrive in collaborative environments where ideas flow, feedback is valued, and growth is shared.
+
+---
+
+<h1 align="center"> 🧰 Tools and Tech Stack 🛠️ </h1>
+
+<div align="center">
+
+<h3>Languages</h3>
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue"/>
+
+<h3>Markup & Styling</h3>
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange"/>
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&logoColor=ff69b4"/>
+<img src="https://img.shields.io/badge/Styled--Components-black?style=for-the-badge&logo=styled-components&logoColor=pink"/>
+
+<h3>Frontend</h3>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=cyan"/>
+<img src="https://img.shields.io/badge/React--Router-black?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React--Hook--Form-black?style=for-the-badge&logo=reacthookform&logoColor=red"/>
+<img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=red"/>
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=cyan"/>
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=purple"/>
+<img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=Vite&logoColor=yellow"/>
+
+<h3>Backend</h3>
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=green"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI&logoColor=teal"/>
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=green"/>
+<img src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Express--Validator-black?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<h3>🗄️ Databases</h3>
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green"/>
+<img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=Supabase&logoColor=green"/>
+
+<h3>Security</h3>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSONWebTokens&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Bcrypt-black?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
+<h3>Testing</h3>
+<img src="https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest&logoColor=red"/>
+<img src="https://img.shields.io/badge/Vitest-black?style=for-the-badge&logo=vitest&logoColor=limegreen"/>
+<img src="https://img.shields.io/badge/Supertest-black?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Python&logoColor=lightblue"/>
+
+<h3>Data Science & Machine Learning</h3>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=purple"/>
+<img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Machine--Learning-black?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+
+<h3>Web Scraping</h3>
+<img src="https://img.shields.io/badge/Scrapy-black?style=for-the-badge&logo=scrapy&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-black?style=for-the-badge&logo=python&logoColor=lightgreen"/>
+<img src="https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=Selenium&logoColor=green"/>
+
+<h3>UI/UX</h3>
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/FigJam-black?style=for-the-badge&logo=Figma&logoColor=pink"/>
+<img src="https://img.shields.io/badge/AdobeXD-black?style=for-the-badge&logo=AdobeXD&logoColor=purple"/>
+
+<h3>Development Tools</h3>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=orange"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=blue"/>
+<img src="https://img.shields.io/badge/GitHub--Projects-black?style=for-the-badge&logo=GitHub&logoColor=blue"/>
+<img src="https://img.shields.io/badge/VS--Code-black?style=for-the-badge&logo=VisualStudioCode&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=cyan"/>
+<img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue"/>
+
+<h3>Best Practices</h3>
+<img src="https://img.shields.io/badge/Clean--Code-black?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVC-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOLID-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=circleci&logoColor=white"/>
+</div>
 
 --- 
-## Tools I use 
 
-### **Design**
+<div align="center">
+<img src="https://media1.tenor.com/m/WYclVc_TmQ0AAAAd/sealyx-cyberpunk.gif" width="500"/>
+</div>
 
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=blue) ![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop&logoColor=purple) ![Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=blue) ![AdobeXD](https://img.shields.io/badge/AdobeXD-000?style=for-the-badge&logo=adobexd&logoColor=purple)
+--- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/vadavelazquez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-### **Frontend**
+--- 
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue) ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=purple) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript&logoColor=purple) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=blue)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=purple)
 
-### **Backend** 
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=blue) ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=purple) ![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize&logoColor=blue) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-black?style=for-the-badge&logo=mysql&logoColor=purple) ![Bcrypt](https://img.shields.io/badge/Bcrypt-black?style=for-the-badge&logo=bcrypt&logoColor=blue) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=purple) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=blue)  ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=blue) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=purple) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue) ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=purple)
-
-### **Testing**
-
-![Jest](https://img.shields.io/badge/Jest-blue?style=for-the-badge&logo=jest&logoColor=white) ![Supertst](https://img.shields.io/badge/Supertst-blue?style=for-the-badge&logo=supertest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=purple) ![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira&logoColor=blue)
-
-![porjects](https://github.com/user-attachments/assets/9acbd61c-37d1-4f1d-9bda-ef4b339accd8)
-
-<!---
-DarthVada36/DarthVada36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
