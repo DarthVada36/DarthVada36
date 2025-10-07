@@ -13,7 +13,7 @@ I'm a web developer with a strong commitment to writing clean, optimized, and sc
 
 Currently, I'm expanding my skills into the world of AI development and data science, combining my technical foundation with a deep curiosity for data-driven problem solving and intelligent systems. I'm on a mission to build smart solutions that not only work—but think.
 
-<h1 align="center"> This is what I rock 🎸 </h1> 
+<h1 align="center"> This is why I rock 🎸 </h1> 
 
 - **Self-taught and unstoppable:** I’m constantly learning, evolving, and leveling up with every project I take on.
 
